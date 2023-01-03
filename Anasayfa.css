@@ -1,5 +1,36 @@
+@font-face {
+  font-family: "Chomsky";
+  src: url(Fonts/chomsky/Chomsky.otf);
+}
+
 #Header1 {
+  font-family: Chomsky,'Gill Sans';
   text-align: center;
+  font-size: 6em;
+  color: #000000;
+}
+a:link {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: rgb(0, 0, 0)(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:active {
+  color: rgb(0, 0, 0);
+  background-color: transparent;
+  text-decoration: none;
 }
 
 #Headlines {

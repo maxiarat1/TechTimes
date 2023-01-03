@@ -17,7 +17,8 @@ session_start();
 
   
   <div id="Header1">
-           <img src=header_1.png>
+           <!--<img src=header_1.png>-->
+           <a href="index.html">Tech News</a>
   </div>
 
   <nav class="topnav">
@@ -68,10 +69,10 @@ session_start();
    </p>  
     <i>14 MIN READ</i>
       <br>
-    <img src="27southwestchaos-02-1-97fb-videoLarge.jpg">
+    <img src="images/27southwestchaos-02-1-97fb-videoLarge.jpg">
      <br>
       <div id="Rectangle">
-      <img src="rectangle_4.png">
+      <img src="images/rectangle_4.png">
       </div>
       <br>
       <a onclick="window.location.href='Register.html'">
@@ -80,7 +81,7 @@ session_start();
      <p>On a frigid night, we accompanied Ukrainian soldiers as they used a thermal sight to find enemy positions miles away.
         </p>
         
-     <i>13 MIN READ</i> <br> <img src="107170422-16717337232022-12-22t182143z_934003418_rc25by9yeknw_rtrmadp_0_ukraine-crisis-russia-putin.jpeg"><br>
+     <i>13 MIN READ</i> <br> <img src="images/107170422-16717337232022-12-22t182143z_934003418_rc25by9yeknw_rtrmadp_0_ukraine-crisis-russia-putin.jpeg"><br>
       <div id="Rectangle">
       <img src="rectangle_4.png"></div> <br>
        <b>Russian City Mourns Its Lost Soldiers, but Doesn’t Resent Putin’s War</b>
@@ -88,9 +89,9 @@ session_start();
         </p>
         <i>15 MIN READ</i>
         <br>
-        <img src="27russia-ryazan-top-1-f7f1-jumbo.jpg">
+        <img src="images/27russia-ryazan-top-1-f7f1-jumbo.jpg">
       </div>
-  <script src="script.js"></script>
+  <script src="images/script.js"></script>
 </body>
 
 </html>
