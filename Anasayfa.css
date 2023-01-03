@@ -1,0 +1,44 @@
+#Header1 {
+  text-align: center;
+}
+
+#Headlines {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+#Headlines2 {
+  text-align: center;
+  font-size: 18px;
+  font-weight: bold;
+}
+.buttons{
+  text-align: center;
+}
+#Rectangle {
+  width: 100%;
+  height: 25px;
+  text-align: center;
+}
+
+b {
+  text-align: center;
+  font-size: 12px;
+}
+
+p {
+  text-align: center;
+  font-size: 16px;
+  margin: 10px 0;
+}
+
+i {
+  text-align: center;
+  font-style: italic;
+  font-size: 14px;
+  color: #666;
+}
+active {
+  background-color: #04AA6D;
+  color: white;
+}
